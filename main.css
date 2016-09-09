@@ -1,0 +1,9 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(TravelingTypewriter.otf);
+}
+
+h1, button {
+  font-family: myFirstFont;
+  text-align: center;
+}
